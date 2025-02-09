@@ -12,7 +12,7 @@ The options wizard should have the following features:
 
 A demo of a complete solution is shown below:
 
-https://github.com/user-attachments/assets/c73fff48-33ca-42b9-888d-640ecadda20d
+![options-wizard-demo](https://github.com/user-attachments/assets/66d1d636-f7aa-4ae7-9f80-b47680c2c08b)
 
 # What We Are Looking For
 
