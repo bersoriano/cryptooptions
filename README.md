@@ -64,4 +64,4 @@ fetchTicker(params)
 
 - Gets a ticker for a specific instrument, including the best bid and ask price
 
-You can access the [API documentation](https://docs.lyra.finance/reference/overview) for more details on the request parameters and respective response body.
+You can access the [API documentation](https://docs.derive.xyz/reference/overview) for more details on the request parameters and respective response body.
